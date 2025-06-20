@@ -125,21 +125,14 @@ This isn’t just UI polish — **EZ Store’s backbone is built on real-time da
 
 ## 💻 Running Locally
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/OMENxSHREY/ez-store.git
-cd ez-store
-
-# 2. Install frontend dependencies
+# Install dependencies
 npm install
 
-# 3. Start development server
+# Run the development server
 npm run dev
-Visit: http://localhost:3000
-```
 
-
-
+# Visit your local app at:
+http://localhost:3000
 🔮 Future Roadmap
 Feature	Status
 AI-driven product suggestions	🟡 Planned
@@ -150,7 +143,7 @@ Multi-language Support	🔜 Next
 ✅ Conclusion
 EZ Store is more than just an eCommerce project — it’s a full-fledged product experience built with engineer-grade precision and designer sensibility.
 
-Why It Matters:
+🔍 Why It Matters
 🧍‍♂️ User-Centric Flow – Built to reduce friction at every step
 
 ⚡ Live Feedback – Backend-connected actions, always synced
@@ -161,7 +154,7 @@ Why It Matters:
 
 🧠 Clean Architecture – Readable, testable, and reusable
 
-🕐 Live DB Feedback <200ms – No reloads. No lags. Just real-time trust.
+⏱️ Live DB Feedback <200ms – No reloads. No lags. Just real-time trust
 
 🤝 Let’s Connect
 📧 Email: shreyraghuvanshi10@gmail.com
