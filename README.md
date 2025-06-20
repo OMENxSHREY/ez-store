@@ -148,6 +148,7 @@ Visit: http://localhost:3000
 | Multi-language Support        | 🔜 Next    |
 
 ✅ Conclusion
+
 EZ Store is more than just an eCommerce project — it’s a full-fledged product experience built with engineer-grade precision and designer sensibility.
 
 Why It Matters:
@@ -163,6 +164,7 @@ Why It Matters:
 🧠 Clean Architecture – Readable, testable, and reusable
 
 🤝 Let’s Connect
+
 📧 Email: shreyraghuvanshi10@gmail.com
 
 🔗 LinkedIn: shrey-raghuvanshi-6575a4348
@@ -170,6 +172,7 @@ Why It Matters:
 🐙 GitHub: OMENxSHREY
 
 ⭐ Like this Project?
+
 Give it a ⭐ on GitHub — it helps me keep building real-world, scalable, and creative tech.
 
 “EZ Store is my take on what future-focused retail platforms should feel like — secure, snappy, and centered around people.”
