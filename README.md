@@ -167,12 +167,14 @@ EZ Store is more than just an eCommerce project — it’s a full-fledged produc
 
 ---
 
-### 🤝 Let’s Connect
+
+## 🤝 Let’s Connect
 📧 Email: shreyraghuvanshi10@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/shrey-raghuvanshi-6575a4348
 
 🐙 GitHub: OMENxSHREY
+
 
 ---
 
