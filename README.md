@@ -135,6 +135,7 @@ npm install
 # 3. Start development server
 npm run dev
 ```                                                                                                                                                                                          
+---
 
 🔮 Future Roadmap
 
@@ -145,6 +146,7 @@ npm run dev
 | Admin Analytics Dashboard     | 🟡 Planned |
 | Multi-language Support        | 🔜 Next    |
 
+---
 
 ✅ Conclusion
 
@@ -163,12 +165,16 @@ EZ Store is more than just an eCommerce project — it’s a full-fledged produc
 
 ⏱️ Live DB Feedback <200ms – No reloads. No lags. Just real-time trust
 
+---
+
 🤝 Let’s Connect
 📧 Email: shreyraghuvanshi10@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/shrey-raghuvanshi-6575a4348
 
 🐙 GitHub: OMENxSHREY
+
+---
 
 ⭐ Like this Project?
 Give it a ⭐ on GitHub — it helps me keep building real-world, scalable, and creative tech.
