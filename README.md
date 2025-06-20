@@ -137,13 +137,17 @@ npm run dev
 ```                                                                                                                                                                                          
 
 🔮 Future Roadmap
-Feature	Status
-AI-driven product suggestions	🟡 Planned
-Payment Gateway Integration	🟡 Planned
-Admin Analytics Dashboard	🟡 Planned
-Multi-language Support	🔜 Next
+
+| Feature                       | Status     |
+| ----------------------------- | ---------- |
+| AI-driven product suggestions | 🟡 Planned |
+| Payment Gateway Integration   | 🟡 Planned |
+| Admin Analytics Dashboard     | 🟡 Planned |
+| Multi-language Support        | 🔜 Next    |
+
 
 ✅ Conclusion
+
 EZ Store is more than just an eCommerce project — it’s a full-fledged product experience built with engineer-grade precision and designer sensibility.
 
 🔍 Why It Matters
@@ -170,5 +174,3 @@ EZ Store is more than just an eCommerce project — it’s a full-fledged produc
 Give it a ⭐ on GitHub — it helps me keep building real-world, scalable, and creative tech.
 
 “EZ Store is my take on what future-focused retail platforms should feel like — secure, snappy, and centered around people.”
-
-Let me know if you want this merged directly into your full README or added to a collapsible <details> block.
