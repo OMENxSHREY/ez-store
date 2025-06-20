@@ -20,7 +20,7 @@
 
 > 👇 Click to experience a short walkthrough of EZ Store
 
-![EZ Store Demo](assets/demo.gif)
+![EZ Store Demo](public/assets/demo.gif)
 
 ---
 
@@ -67,42 +67,42 @@ ez-store/
 ### 🏠 1. Interactive Homepage  
 > Dynamic category tiles, promo banners, and featured products  
 📍 Image: `assets/homepage.png`  
-![Homepage](assets/homepage.png)
+![Homepage](public/assets/homepage.png)
 
 ---
 
 ### 🧾 2. Dynamic Product Pages  
 > Slug-based routing, live stock info, and styled variant selectors  
 📍 Image: `assets/product-page.png`  
-![Product Page](assets/product-page.png)
+![Product Page](public/assets/product-page.png)
 
 ---
 
 ### 🛒 3. Responsive Cart System  
 > Real-time price & quantity adjustments, instant DOM updates  
 📍 Image: `assets/cart.png`  
-![Cart System](assets/cart.png)
+![Cart System](public/assets/cart.png)
 
 ---
 
 ### 💳 4. Secure Payment Processing  
 > Placeholder UI for gateway integration (Stripe/Razorpay-ready)  
 📍 Image: `assets/payment.png`  
-![Payment Processing](assets/payment.png)
+![Payment Processing](public/assets/payment.png)
 
 ---
 
 ### ⭐ 5. Customer Review System  
 > Authenticated users can post and view reviews tied to products  
 📍 Image: `assets/reviews.png`  
-![Reviews](assets/reviews.png)
+![Reviews](public/assets/reviews.png)
 
 ---
 
 ### 📦 6. Integrated Order Tracking  
 > Post-checkout tracking page synced with DB status updates  
 📍 Image: `assets/tracking.png`  
-![Tracking](assets/tracking.png)
+![Tracking](public/assets/tracking.png)
 
 ---
 
