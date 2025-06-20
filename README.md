@@ -124,15 +124,18 @@ This isn’t just UI polish — **EZ Store’s backbone is built on real-time da
 ---
 
 ## 💻 Running Locally
+```bash
+# 1. Clone the repository
+git clone https://github.com/OMENxSHREY/ez-store.git
+cd ez-store
 
-# Install dependencies
+# 2. Install frontend dependencies
 npm install
 
-# Run the development server
+# 3. Start development server
 npm run dev
+```                                                                                                                                                                                          
 
-# Visit your local app at:
-http://localhost:3000
 🔮 Future Roadmap
 Feature	Status
 AI-driven product suggestions	🟡 Planned
@@ -167,3 +170,5 @@ EZ Store is more than just an eCommerce project — it’s a full-fledged produc
 Give it a ⭐ on GitHub — it helps me keep building real-world, scalable, and creative tech.
 
 “EZ Store is my take on what future-focused retail platforms should feel like — secure, snappy, and centered around people.”
+
+Let me know if you want this merged directly into your full README or added to a collapsible <details> block.
