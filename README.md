@@ -137,7 +137,7 @@ npm run dev
 ```                                                                                                                                                                                          
 ---
 
-🔮 Future Roadmap
+## 🔮 Future Roadmap
 
 | Feature                       | Status     |
 | ----------------------------- | ---------- |
@@ -148,7 +148,7 @@ npm run dev
 
 ---
 
-✅ Conclusion
+## ✅ Conclusion
 
 EZ Store is more than just an eCommerce project — it’s a full-fledged product experience built with engineer-grade precision and designer sensibility.
 
@@ -167,7 +167,7 @@ EZ Store is more than just an eCommerce project — it’s a full-fledged produc
 
 ---
 
-🤝 Let’s Connect
+### 🤝 Let’s Connect
 📧 Email: shreyraghuvanshi10@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/shrey-raghuvanshi-6575a4348
@@ -176,7 +176,7 @@ EZ Store is more than just an eCommerce project — it’s a full-fledged produc
 
 ---
 
-⭐ Like this Project?
+## ⭐ Like this Project?
 Give it a ⭐ on GitHub — it helps me keep building real-world, scalable, and creative tech.
 
 “EZ Store is my take on what future-focused retail platforms should feel like — secure, snappy, and centered around people.”
