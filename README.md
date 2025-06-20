@@ -136,6 +136,7 @@ npm install
 # 3. Start development server
 npm run dev
 Visit: http://localhost:3000
+```
 
 
 🔮 Future Roadmap
