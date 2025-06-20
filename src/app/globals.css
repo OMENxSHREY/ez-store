@@ -1,0 +1,139 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 240 10% 3.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 240 10% 3.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 10% 3.9%;
+    --primary: 60 85% 50%;  /* Brand Yellow */
+    --primary-foreground: 0 0% 0%;
+    --secondary: 0 0% 0%;  /* Brand Black */
+    --secondary-foreground: 0 0% 100%;
+    --muted: 240 4.8% 95.9%;
+    --muted-foreground: 240 3.8% 46.1%;
+    --accent: 240 4.8% 95.9%;
+    --accent-foreground: 240 5.9% 10%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 5.9% 90%;
+    --input: 240 5.9% 90%;
+    --ring: 60 85% 50%;
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 240 10% 3.9%;
+    --foreground: 0 0% 98%;
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
+    --popover: 240 10% 3.9%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 60 85% 50%;  /* Brand Yellow */
+    --primary-foreground: 0 0% 0%;
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+    --accent: 240 3.7% 15.9%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    --ring: 60 85% 50%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-family: var(--font-montserrat);
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-space-grotesk);
+    font-weight: 700;
+  }
+}
+
+@layer components {
+  .container-custom {
+    @apply max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .brand-yellow-bg {
+    @apply bg-[#eae90e];
+  }
+
+  .brand-black-bg {
+    @apply bg-[#111];
+  }
+
+  .brand-white-bg {
+    @apply bg-[#f5f5f5];
+  }
+
+  .btn-brand {
+    @apply bg-[#eae90e] text-black font-medium px-8 py-3 hover:bg-[#e0e00c] transition-colors uppercase tracking-wide;
+  }
+
+  .btn-brand-outline {
+    @apply border-2 border-[#eae90e] text-black font-medium px-8 py-3 hover:bg-[#eae90e] transition-colors uppercase tracking-wide;
+  }
+
+  .nav-link {
+    @apply transition-colors hover:text-primary;
+  }
+
+  .product-card {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .product-card-image-container {
+    @apply relative overflow-hidden;
+  }
+
+  .product-card-image {
+    @apply transition-transform duration-500 ease-in-out;
+  }
+
+  .product-card:hover .product-card-image {
+    @apply scale-105;
+  }
+
+  .product-card-details {
+    @apply mt-3 space-y-1;
+  }
+
+  .quick-add-btn {
+    @apply absolute bottom-0 left-0 right-0 bg-black text-white py-2 text-center opacity-0 transform translate-y-full transition-all duration-300 uppercase text-sm font-medium;
+  }
+
+  .product-card:hover .quick-add-btn {
+    @apply opacity-100 transform translate-y-0;
+  }
+}
+
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.2s ease-out;
+}
