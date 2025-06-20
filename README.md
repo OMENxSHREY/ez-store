@@ -20,7 +20,7 @@
 
 > 👇 Click to experience a short walkthrough of EZ Store
 
-![EZ Store Demo](public/assets/demo.gif)
+![EZ Store Demo](public/assets/Demo.gif)
 
 ---
 
