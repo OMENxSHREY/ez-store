@@ -138,18 +138,20 @@ npm run dev
 Visit: http://localhost:3000
 ```
 
-
 🔮 Future Roadmap
-Feature	Status
-AI-driven product suggestions	🟡 Planned
-Payment Gateway Integration	🟡 Planned
-Admin Analytics Dashboard	🟡 Planned
-Multi-language Support	🔜 Next
+
+| Feature                       | Status     |
+| ----------------------------- | ---------- |
+| AI-driven product suggestions | 🟡 Planned |
+| Payment Gateway Integration   | 🟡 Planned |
+| Admin Analytics Dashboard     | 🟡 Planned |
+| Multi-language Support        | 🔜 Next    |
 
 ✅ Conclusion
 EZ Store is more than just an eCommerce project — it’s a full-fledged product experience built with engineer-grade precision and designer sensibility.
 
 Why It Matters:
+
 👤 User-Centric Flow – Built to reduce friction at every step
 
 ⚡ Live Feedback – Backend-connected actions, always synced
@@ -162,7 +164,9 @@ Why It Matters:
 
 🤝 Let’s Connect
 📧 Email: shreyraghuvanshi10@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/shrey-raghuvanshi-6575a4348
+
+🔗 LinkedIn: shrey-raghuvanshi-6575a4348
+
 🐙 GitHub: OMENxSHREY
 
 ⭐ Like this Project?
